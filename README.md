@@ -1,11 +1,13 @@
 # earthquakeSim
 Ground acceleration records are simulated using the non-stationnary Kanai–Tajimi model
 
+[![View Earthquake simulation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/56701-earthquake-simulation)
+
+Ground acceleration records are simulated using the non-stationary Kanai–Tajimi model
 
 Non-stationary ground acceleration records are simulated based on the example proposed in the paper of Guo et al. [3] that I have found well explained. However, the method itself is older, see e.g. [1, 2]. The present submission contains, in addition, a Matlab function to fit the non-stationary Kanai–Tajimi model to ground acceleration records.
 
-
-The optimization toolbox is required for the fitting procedure (lsqcurvefit). However, other functions may alternatively be used. The signal processing toolbox is used here through the function filtfilt.Any comment, question or suggestions to improve the code is warmly welcomed.
+The optimization toolbox is required for the fitting procedure (lsqcurvefit). However, other functions may alternatively be used. The signal processing toolbox is used here through the function filtfilt. Any comment, question or suggestions to improve the code is warmly welcomed.
 
 References
 
