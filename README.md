@@ -2,6 +2,7 @@
 Ground acceleration records are simulated using the non-stationnary Kanai–Tajimi model
 
 [![View Earthquake simulation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/56701-earthquake-simulation)
+[![DOI](https://zenodo.org/badge/249377599.svg)](https://zenodo.org/badge/latestdoi/249377599)
 
 Ground acceleration records are simulated using the non-stationary Kanai–Tajimi model
 
